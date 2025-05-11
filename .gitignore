@@ -1,0 +1,23 @@
+# Ambienti virtuali
+.venv/
+env/
+venv/
+
+# File temporanei
+*.pyc
+__pycache__/
+*.log
+
+# File di sistema
+.DS_Store
+Thumbs.db
+
+# File di output
+*.pdf
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Local-Dev Files
+pdfs/
